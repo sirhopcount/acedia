@@ -1872,7 +1872,7 @@
 	"Improved Mount Hud" = true
 	"Improved Tooltips" = true
 	"Usage Ticker" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 
 	[client.greener_grass]
 		"Affect Leaves" = true
