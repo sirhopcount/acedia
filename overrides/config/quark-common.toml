@@ -488,33 +488,33 @@
 		"Bone Meal Utility" = true
 
 [world]
-	"Big Dungeon" = true
-	"Big Stone Clusters" = true
+	"Big Dungeon" = false
+	"Big Stone Clusters" = false
 	Biotite = true
 	"Blossom Trees" = true
 	"Cave Roots" = true
 	"Chorus Vegetation" = true
-	Crevices = true
-	Deepslate = true
+	Crevices = false
+	Deepslate = false
 	"Fairy Rings" = true
-	"Mega Caves" = true
-	"Monster Box" = true
-	"Nether Obsidian Spikes" = true
-	"New Stone Types" = true
-	"Realistic World Gen" = true
-	Speleothems = true
-	"Spiral Spires" = true
+	"Mega Caves" = false
+	"Monster Box" = false
+	"Nether Obsidian Spikes" = false
+	"New Stone Types" = false
+	"Realistic World Gen" = false
+	Speleothems = false
+	"Spiral Spires" = false
 	"Underground Clay" = true
-	"Brimstone Underground Biome" = true
-	"Cave Crystal Underground Biome" = true
+	"Brimstone Underground Biome" = false
+	"Cave Crystal Underground Biome" = false
 	"Elder Prismarine Underground Biome" = true
-	"Glowshroom Underground Biome" = true
-	"Lush Underground Biome" = true
-	"Overgrown Underground Biome" = true
-	"Permafrost Underground Biome" = true
-	"Sandstone Underground Biome" = true
-	"Slime Underground Biome" = true
-	"Spider Nest Underground Biome" = true
+	"Glowshroom Underground Biome" = false
+	"Lush Underground Biome" = false
+	"Overgrown Underground Biome" = false
+	"Permafrost Underground Biome" = false
+	"Sandstone Underground Biome" = false
+	"Slime Underground Biome" = false
+	"Spider Nest Underground Biome" = false
 
 	[world.big_dungeon]
 		#The chance that a big dungeon spawn candidate will be allowed to spawn. 0.2 is 20%, which is the same as the Pillager Outpost.
