@@ -1,0 +1,266 @@
+
+#'Variant16x' Common Configuration File | Game Version: 1.16.5
+#
+#'Variant16x' Settings
+[variant16x]
+
+	#General Settings
+	#These options will OVERRIDE any Custom Settings!
+	[variant16x.general]
+		#Enables/Disables ALL Pressure Plate Variants
+		enablePressurePlates = true
+		#Enables/Disables ALL Button Variants
+		enableButtons = true
+		#Enables/Disables ALL Miscellaneous Variants
+		enableMiscellaneous = true
+		#Enables/Disables ALL Stairs Variants
+		enableStairs = true
+		#Enables/Disables ALL Wall Variants
+		enableWalls = true
+		#Enables/Disables ALL Fence Gate Variants
+		enableFenceGates = true
+		#Enables/Disables ALL Fence Variants
+		enableFences = true
+		#Enables/Disables ALL Slab Variants
+		enableSlabs = true
+
+	#Custom Settings
+	#These options allow for more in-depth configuring.
+	[variant16x.custom]
+
+		#Custom Wall Settings
+		[variant16x.custom.walls]
+			#Enables/Disables Netherrack/Nylium Wall Variants
+			enableNetherrackWalls = true
+			#Enables/Disables Stone Wall Variants
+			enableStoneWalls = true
+			#Enables/Disables Wool Wall Variants
+			enableWoolWalls = true
+			#Enables/Disables Snow Wall Variants
+			enableSnowWalls = true
+			#Enables/Disables End Stone Wall Variants
+			enableEndStoneWalls = true
+			#Enables/Disables Sand Wall Variants
+			enableSandWalls = true
+			#Enables/Disables Terracotta Wall Variants
+			enableTerracottaWalls = true
+			#Enables/Disables Clay Wall Variants
+			enableClayWalls = true
+			#Enables/Disables Prismarine Wall Variants
+			enablePrismarineWalls = true
+			#Enables/Disables Honeycomb Wall Variants
+			enableHoneycombWalls = true
+			#Enables/Disables Obsidian Wall Variants
+			enableObsidianWalls = true
+			#Enables/Disables Glass Wall Variants
+			enableGlassWalls = true
+			#Enables/Disables Gravel Wall Variants
+			enableGravelWalls = true
+			#Enables/Disables Ice Wall Variants
+			enableIceWalls = true
+			#Enables/Disables Sandstone Wall Variants
+			enableSandstoneWalls = true
+			#Enables/Disables Nether Brick Wall Variants
+			enableNetherBrickWalls = true
+			#Enables/Disables Purpur Wall Variants
+			enablePurpurWalls = true
+			#Enables/Disables Quartz Wall Variants
+			enableQuartzWalls = true
+			#Enables/Disables Concrete/Concrete Powder Wall Variants
+			enableConcreteWalls = true
+
+		#Custom Fence Settings
+		[variant16x.custom.fences]
+			#Enables/Disables Wood/Hyphae Fence Variants
+			enableWoodFences = true
+			#Enables/Disables Nether Brick Fence Variants
+			enableNetherBrickFences = true
+
+		#Custom Button Settings
+		[variant16x.custom.buttons]
+			#Enables/Disables Sandstone Button Variants
+			enableSandstoneButtons = true
+			#Enables/Disables Stone Button Variants
+			enableStoneButtons = true
+			#Enables/Disables Terracotta Button Variants
+			enableTerracottaButtons = true
+			#Enables/Disables Prismarine Button Variants
+			enablePrismarineButtons = true
+			#Enables/Disables Concrete/Concrete Powder Button Variants
+			enableConcreteButtons = true
+			#Enables/Disables Brick Button Variants
+			enableBrickButtons = true
+			#Enables/Disables Gravel Button Variants
+			enableGravelButtons = true
+			#Enables/Disables Purpur Button Variants
+			enablePurpurButtons = true
+			#Enables/Disables Glass Button Variants
+			enableGlassButtons = true
+			#Enables/Disables Sand Button Variants
+			enableSandButtons = true
+			#Enables/Disables Netherrack/Nylium Button Variants
+			enableNetherrackButtons = true
+			#Enables/Disables Obsidian Button Variants
+			enableObsidianButtons = true
+			#Enables/Disables Ice Button Variants
+			enableIceButtons = true
+			#Enables/Disables Wood/Hyphae Button Variants
+			enableWoodButtons = true
+			#Enables/Disables Quartz Button Variants
+			enableQuartzButtons = true
+			#Enables/Disables Honeycomb Button Variants
+			enableHoneycombButtons = true
+			#Enables/Disables Wool Button Variants
+			enableWoolButtons = true
+			#Enables/Disables Clay Button Variants
+			enableClayButtons = true
+			#Enables/Disables Snow Button Variants
+			enableSnowButtons = true
+			#Enables/Disables Nether Brick Button Variants
+			enableNetherBrickButtons = true
+			#Enables/Disables End Stone Button Variants
+			enableEndStoneButtons = true
+
+		#Custom Miscellaneous Settings
+		[variant16x.custom.miscellaneous]
+			#Enables/Disables Infested Stone Variants
+			enableInfestedStones = true
+			#Enables/Disables Advancement Variants
+			enableAdvancements = true
+			#Enables/Disables Music Disc Variants
+			enableMusicDiscs = true
+			#Enables/Disables Painting Variants
+			enablePaintings = true
+			#Enables/Disables Boat Variants
+			enableBoats = true
+			#Enables/Disables Flower Variants
+			enableSmallFlowers = true
+			#Enables/Disables Weighted Pressure Plate Variants
+			enableWeightedPressurePlates = true
+
+		#Custom Pressure Plate Settings
+		[variant16x.custom.pressurePlates]
+			#Enables/Disables Wood/Hyphae Pressure Plate Variants
+			enableWoodPressurePlates = true
+			#Enables/Disables Ice Pressure Plate Variants
+			enableIcePressurePlates = true
+			#Enables/Disables Brick Pressure Plate Variants
+			enableBrickPressurePlates = true
+			#Enables/Disables Snow Pressure Plate Variants
+			enableSnowPressurePlates = true
+			#Enables/Disables Sand Pressure Plate Variants
+			enableSandPressurePlates = true
+			#Enables/Disables Purpur Pressure Plate Variants
+			enablePurpurPressurePlates = true
+			#Enables/Disables Netherrack/Nylium Pressure Plate Variants
+			enableNetherrackPressurePlates = true
+			#Enables/Disables Honeycomb Pressure Plate
+			enableHoneycombPressurePlates = true
+			#Enables/Disables Gravel Pressure Plate Variants
+			enableGravelPressurePlates = true
+			#Enables/Disables Glass Pressure Plate Variants
+			enableGlassPressurePlates = true
+			#Enables/Disables Clay Pressure Plate Variants
+			enableClayPressurePlates = true
+			#Enables/Disables Nether Brick Pressure Plate Variants
+			enableNetherBrickPressurePlates = true
+			#Enables/Disables Wool Pressure Plate Variants
+			enableWoolPressurePlates = true
+			#Enables/Disables Prismarine Pressure Plate Variants
+			enablePrismarinePressurePlates = true
+			#Enables/Disables Concrete/Concrete Powder Pressure Plate Variants
+			enableConcretePressurePlates = true
+			#Enables/Disables Sandstone Pressure Plate Variants
+			enableSandstonePressurePlates = true
+			#Enables/Disables Stone Pressure Plate Variants
+			enableStonePressurePlates = true
+			#Enables/Disables Obsidian Pressure Plate Variants
+			enableObsidianPressurePlates = true
+			#Enables/Disables End Stone Pressure Plate Variants
+			enableEndStonePressurePlates = true
+			#Enables/Disables Quartz Pressure Plate Variants
+			enableQuartzPressurePlates = true
+			#Enables/Disables Terracotta Pressure Plate Variants
+			enableTerracottaPressurePlates = true
+
+		#Custom Stairs Settings
+		[variant16x.custom.stairs]
+			#Enables/Disables Wood/Hyphae Stairs Variants
+			enableWoodStairs = true
+			#Enables/Disables Sand Stairs Variants
+			enableSandStairs = true
+			#Enables/Disables Gravel Stairs Variants
+			enableGravelStairs = true
+			#Enables/Disables End Stone Stairs Variants
+			enableEndStoneStairs = true
+			#Enables/Disables Quartz Stairs Variants
+			enableQuartzStairs = true
+			#Enables/Disables Terracotta Stairs Variants
+			enableTerracottaStairs = true
+			#Enables/Disables Honeycomb Stairs Variants
+			enableHoneycombStairs = true
+			#Enables/Disables Wool Stairs Variants
+			enableWoolStairs = true
+			#Enables/Disables Ice Stairs Variants
+			enableIceStairs = true
+			#Enables/Disables Clay Stairs Variants
+			enableClayStairs = true
+			#Enables/Disables Nether Brick Stairs Variants
+			enableNetherBrickStairs = true
+			#Enables/Disables Concrete/Concrete Powder Stairs Variants
+			enableConcreteStairs = true
+			#Enables/Disables Glass Stairs Variants
+			enableGlassStairs = true
+			#Enables/Disables Snow Stairs Variants
+			enableSnowStairs = true
+			#Enables/Disables Stone Stairs Variants
+			enableStoneStairs = true
+			#Enables/Disables Obsidian Stairs Variants
+			enableObsidianStairs = true
+			#Enables/Disables Netherrack/Nylium Stairs Variants
+			enableNetherrackStairs = true
+			#Enables/Disables Sandstone Stairs Variants
+			enableSandstoneStairs = true
+
+		#Custom Fence Gate Settings
+		[variant16x.custom.fenceGates]
+			#Enables/Disables Wood/Hyphae Fence Gate Variants
+			enableWoodFenceGates = true
+
+		#Custom Slab Settings
+		[variant16x.custom.slabs]
+			#Enables/Disables Snow Slab Variants
+			enableSnowSlabs = true
+			#Enables/Disables Wool Slab Variants
+			enableWoolSlabs = true
+			#Enables/Disables Sand Slab Variants
+			enableSandSlabs = true
+			#Enables/Disables End Stone Slab Variants
+			enableEndStoneSlabs = true
+			#Enables/Disables Netherrack/Nylium Slab Variants
+			enableNetherrackSlabs = true
+			#Enables/Disables Terracotta Slab Variants
+			enableTerracottaSlabs = true
+			#Enables/Disables Stone Slab Variants
+			enableStoneSlabs = true
+			#Enables/Disables Clay Slab Variants
+			enableClaySlabs = true
+			#Enables/Disables Honeycomb Slab Variants
+			enableHoneycombSlabs = true
+			#Enables/Disables Glass Slab Variants
+			enableGlassSlabs = true
+			#Enables/Disables Ice Slab Variants
+			enableIceSlabs = true
+			#Enables/Disables Wood/Hyphae Slab Variants
+			enableWoodSlabs = true
+			#Enables/Disables Gravel Slab Variants
+			enableGravelSlabs = true
+			#Enables/Disables Nether Brick Slab Variants
+			enableNetherBrickSlabs = true
+			#Enables/Disables Quartz Slab Variants
+			enableQuartzSlabs = true
+			#Enables/Disables Concrete/Concrete Powder Slab Variants
+			enableConcreteSlabs = true
+			#Enables/Disables Obsidian Slab Variants
+			enableObsidianSlabs = true
+
