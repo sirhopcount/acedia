@@ -1654,12 +1654,12 @@
 
 [mobs]
 	Crabs = true
-	Forgotten = true
-	Foxhound = true
+	Forgotten = false
+	Foxhound = false
 	Frogs = true
 	Stonelings = true
 	Toretoise = true
-	Wraith = true
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
